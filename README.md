@@ -66,3 +66,4 @@ This application is rendered under MIT
 
 
 # Application image:
+![alt text](images/Screenshot%202022-08-21%20at%2017.40.37.png)
