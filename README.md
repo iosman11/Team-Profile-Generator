@@ -59,11 +59,11 @@ This application is rendered under MIT
  . Jest
 
  ## Demo and Links
-
+https://github.com/iosman11/Team-Profile-Generator
  
 
 # Link for recording: 
-
+https://drive.google.com/file/d/1yAvct4jlS_-bvi8UwDJktsc_4VUG3sDs/view
 
 # Application image:
 ![alt text](images/Screenshot%202022-08-21%20at%2017.40.37.png)
